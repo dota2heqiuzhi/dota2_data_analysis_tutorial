@@ -1,6 +1,4 @@
-# dota2\_data\_analysis\_tutorial
-
-使用DOTA2数据源教学的《数据分析入门课程》
+# 使用DOTA2数据源进行教学的《数据分析入门课程》
 
 目录
 
