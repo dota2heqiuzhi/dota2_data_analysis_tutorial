@@ -6,3 +6,6 @@
 
 2. [第二课：使用SQL解决「基础统计类」问题](https://github.com/dota2heqiuzhi/dota2_data_analysis_tutorial/blob/508229d53bad8f6489a3b7d0bd4d15a8fe4ca255/%E7%AC%AC%E4%BA%8C%E8%AF%BE%EF%BC%9A%E4%BD%BF%E7%94%A8SQL%E5%92%8CPython%E8%A7%A3%E5%86%B3%E3%80%8C%E5%9F%BA%E7%A1%80%E7%BB%9F%E8%AE%A1%E7%B1%BB%E3%80%8D%E9%97%AE%E9%A2%98/%E4%BD%BF%E7%94%A8SQL%E5%92%8Cpython%E8%A7%A3%E5%86%B3%E3%80%8C%E5%9F%BA%E7%A1%80%E7%BB%9F%E8%AE%A1%E7%B1%BB%E3%80%8D%E9%97%AE%E9%A2%98%E7%A4%BA%E4%BE%8B.md)
 
+
+## 常用小工具
+1. 如果你没有梯子，打不开github.com，可以使用[这个工具](https://github.com/luozheao/setHost)一键修改host文件（或者[手动修改](https://zhuanlan.zhihu.com/p/158938544)），注意这个工具依赖[nodejs](https://nodejs.org/zh-cn/)
